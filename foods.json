@@ -13,7 +13,7 @@
           "CalorieCount": 1064,
           "Image":"https://i.pinimg.com/564x/ba/c6/0b/bac60b91a9639254825c9a2909513e28.jpg",
           "VideoLink":"https://www.youtube.com/watch?v=Nwz5UbdpcsE",
-          "Email":"someone@whiskaffair.com",
+          "Email":"someone@whiskaffair.com"
 
 	
      },
@@ -31,7 +31,7 @@
           "CalorieCount": 710,
           "Image": "https://i.pinimg.com/564x/1b/48/11/1b4811bf90888be432738ba34cf482db.jpg",
           "VideoLink": "https://www.youtube.com/watch?v=sfQm4xxr09c",
-          "Email": "someone@whiskaffair.com",
+          "Email": "someone@whiskaffair.com"
      },
     {
           "ID":3,
@@ -47,12 +47,12 @@
           "CalorieCount": 590,
           "Image": "https://i.pinimg.com/564x/35/40/6a/35406a43af95c801d0993b2dbf2b7c30.jpg",
           "VideoLink": "https://www.youtube.com/watch?v=xKDnD8sJsuY",
-          "Email":"someone@whiskaffair.com",
+          "Email":"someone@whiskaffair.com"
     },
         {
           "ID": 4,
           "Name":"Chicken Satay",
-          "Description":"Satay is a traditional Indonesian dish consisting of skewered meat that's served with a sauce on the side."
+          "Description":"Satay is a traditional Indonesian dish consisting of skewered meat that's served with a sauce on the side.",
           "Steps":"n a medium bowl, combine coconut milk, soy sauce, curry powder, turmeric, garlic, ginger, brown sugar and fish sauce.In a gallon size Ziploc bag or large bowl, combine chicken and coconut milk mixture.Drain the chicken from the marinade, discarding the marinade.Thread chicken onto skewers. Brush with canola oil; season with salt and pepper, to taste.Add skewers to grill, and cook, turning occasionally, until the chicken is completely cooked through.",
           "Rating": 4,
           "Country":"Indonesia",
@@ -63,7 +63,7 @@
           "CalorieCount":120,
           "Image":"https://i.pinimg.com/564x/ed/be/4f/edbe4f0e2ae9e54949abe8c628198a3f.jpg",
           "VideoLink":"https://www.youtube.com/watch?v=9pP-_9u7Nig",
-          "Email": "someone@whiskaffair.com",
+          "Email": "someone@whiskaffair.com"
     },
         {
           "ID": 5,
@@ -76,17 +76,16 @@
           "TimeItTakes": 40,
           "IsVeggi":true,
           "IsVegan":true,
-          "CalorieCount":100
+          "CalorieCount":100,
           "Image":"https://www.maangchi.com/wp-content/uploads/2010/04/kongnamulmuchim_plate-590x394.jpg",
           "VideoLink":"https://youtu.be/NWfhIq_MiiU",
-          "Email":"someone@whiskaffair.com",
+          "Email":"someone@whiskaffair.com"
     },
         {
           "ID": 6,
           "Name":"Eclair",
           "Description":"French sweets",
-          "Steps":"Using a tablespoon or a pastry tube with a #10 or large round tip, form dough into nine 4x1-1/2-in. strips on a greased baking sheet. Bake 35-40 minutes or until puffed and golden. Remove to a wire rack. Immediately split eclairs open; remove tops and set aside. Discard soft dough from inside. Cool eclairs.
-          In a large bowl, beat milk and pudding mix according to package directions. In another bowl, whip cream until soft peaks form. Beat in sugar and vanilla; fold into pudding. Fill eclairs.For frosting, in a microwave, melt chocolate and butter; stir until smooth. Stir in sugar and enough hot water to achieve a smooth consistency. Cool slightly. Frost eclairs. Store in refrigerator.",
+          "Steps":"Using a tablespoon or a pastry tube with a #10 or large round tip, form dough into nine 4x1-1/2-in. strips on a greased baking sheet. Bake 35-40 minutes or until puffed and golden. Remove to a wire rack. Immediately split eclairs open; remove tops and set aside. Discard soft dough from inside. Cool eclairs.In a large bowl, beat milk and pudding mix according to package directions. In another bowl, whip cream until soft peaks form. Beat in sugar and vanilla; fold into pudding. Fill eclairs.For frosting, in a microwave, melt chocolate and butter; stir until smooth. Stir in sugar and enough hot water to achieve a smooth consistency. Cool slightly. Frost eclairs. Store in refrigerator.",
           "Rating": 5,
           "Country": "France",
           "Ingredients":"water, butter, salt, flour, 4 eggs, milk, vanilla pudding, whipping cream, sugar, vanilla extract, chocolate, ",
@@ -96,13 +95,13 @@
           "CalorieCount":483,
           "Image":"https://i.pinimg.com/564x/bc/f5/c0/bcf5c0950c5e4552a52f2900defafd18.jpg",
           "VideoLink":"https://www.youtube.com/watch?v=6GIGcq8SCpE",
-          "Email":"someone@whiskaffair.com",
+          "Email":"someone@whiskaffair.com"
     },
         {
           "ID": 7,
-          "Name":"Bruschetta",,
-          "Description":"Italian special dish"
-          Steps:"In a bowl, toss together the tomatoes, basil, Parmesan cheese, and garlic. Mix in the balsamic vinegar, olive oil, kosher salt, and pepper. Serve on toasted bread slices.",
+          "Name":"Bruschetta",
+          "Description":"Italian special dish",
+          "Steps":"In a bowl, toss together the tomatoes, basil, Parmesan cheese, and garlic. Mix in the balsamic vinegar, olive oil, kosher salt, and pepper. Serve on toasted bread slices.",
           "Rating": 5,
           "Country":"Italy",
           "Ingredients":"bread, garlic, olive oil, tomato, basil, oregano, wild fennel",
@@ -112,12 +111,12 @@
           "CalorieCount": 80,
           "Image":"https://i.pinimg.com/236x/60/f9/c6/60f9c633aad8c01287ba1f1af9058cb1.jpg",
           "VideoLink":"https://www.youtube.com/watch?v=Q3xg35pcLyo",
-          "Email": "someone@whiskaffair.com",
+          "Email": "someone@whiskaffair.com"
     },
         {
           "ID": 8,
           "Name":"Cheese Borek",
-          "Description":"Börek is a baked dish consisting of a savory or sweet filling wrapped in yufka"
+          "Description":"Börek is a baked dish consisting of a savory or sweet filling wrapped in yufka",
           "Steps":" Make sure your yufka dough is kept moist, so take it out of the packaging and keep it between two damp dish towels.Make the fillings for your borek.Cut your yufka, and separate the layers. Decide which shape or layering technique to use. Make sure to brush each layer with generous amounts of egg wash or melted butter.Cook your borek. Most, like ours is baked, but some called sigara börek (a Turkish cheese borek), are rolled and deep fried providing a completely different flavor. They are often served as appetizers to a meal.",
           "Rating":5,
           "Country":"Turkey",
@@ -128,7 +127,7 @@
           "CalorieCount": 300,
           "Image":"https://i.pinimg.com/236x/07/58/29/07582941dfac8638f74b2e3a59bc7c3d.jpg",
           "VideoLink":"https://www.youtube.com/watch?v=gQJR8WZ3G_8",
-          "Email":"someone@whiskaffair.com",
+          "Email":"someone@whiskaffair.com"
     },
         { 
           "ID":9,
@@ -144,7 +143,7 @@
           "CalorieCount": 200,
           "Image":"https://i.pinimg.com/236x/35/e6/41/35e6415f2f60c1c2b05b580fbf515a8e.jpg",
           "VideoLink":"https://www.youtube.com/watch?v=ZSW3BJi-1jI",
-          "Email":"someone@whiskaffair.com",
+          "Email":"someone@whiskaffair.com"
     },
         {
           "ID": 10,
@@ -160,7 +159,7 @@
           "CalorieCount": 120,
           "Image":"https://i.pinimg.com/236x/d1/be/bf/d1bebf30e5b9c6810c7ee3c7417b4fd2.jpg",
           "VideoLink":"https://www.youtube.com/watch?v=52iQHBkfo5g",
-          "Email":"someone@whiskaffair.com",
-    },
+          "Email":"someone@whiskaffair.com"
+    }
 
 ]
